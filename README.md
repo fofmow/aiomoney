@@ -86,4 +86,4 @@ if __name__ == "__main__":
 
 ```
 
-### Если библиотека полезна для вас - [Donates ❤️](https://yoomoney.ru/docs/wallet/using-api/authorization/protocol-rights)
+### Если библиотека полезна для вас - [Donates ❤️](https://yoomoney.ru/to/4100116938791262)
