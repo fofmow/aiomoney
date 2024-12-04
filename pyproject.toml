@@ -1,0 +1,25 @@
+[tool.poetry]
+name = "aiomoney"
+version = "3.0.1"
+description = "Простая асинхронная библиотека для работы с API ЮMoney"
+authors = ["fofmow <fofmow@gmail.com>"]
+readme = "README.md"
+urls = { "homepage" = "https://github.com/fofmow/aiomoney", "repository" = "https://github.com/fofmow/aiomoney" }
+license = "MIT"
+classifiers = [
+    "Programming Language :: Python :: 3.10",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent"
+]
+keywords = ["yoomoney", "python", "async"]
+
+
+[tool.poetry.dependencies]
+python = "^3.12"
+pydantic = "^2.10.3"
+aiohttp = "^3.11.9"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
